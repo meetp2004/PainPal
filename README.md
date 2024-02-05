@@ -1,4 +1,4 @@
-# testing
+# PainPal
 
 A new Flutter project.
 
